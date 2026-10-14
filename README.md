@@ -7,3 +7,7 @@ Repoet inneholder gruppens applikasjon og dokumentasjon av utvikling, testing og
 ## Medlemmer
 
 - Fredrik Aleksander Langbo
+
+## Product Brief – Matplan
+
+[Les Product Brief](product-brief.md). Den godkjente briefen er lagt i gruppens kursrepo 14. oktober 2026, før avtalt frist 15. oktober.
